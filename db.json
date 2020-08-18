@@ -1,31 +1,51 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"headers" : [{
+		"name": "code",
+		"text": "Código",
+		"width": "23px;",
+		"order": 1,
+		"showInMobile": true
+		
+	},{
+		"name": "name",
+		"text": "Nombre",
+		"width": "23px;",
+		"order": 2,
+		"showInMobile": true
+	}],
+	"rows": [{
+		"id": 12312,
+		"data": [
+			{
+				"key": "code",
+				"value": "123123123"
+			},
+			{
+				"key": "name",
+				"value": "Esto es un producto"
+			}
+		],
+		"allowedActions": [
+			"edit",
+			"delete"
+		]
+	}],
+	"actions": [
+			{
+				name: "edit",
+				text: "Editar",
+				icon: {
+					color: "green",
+					picture: "pencil"
+				}
+			},
+			{
+				name: "delete",
+				text: "Eliminar",
+				icon: {
+					color: "red",
+					picture: "close"
+				}
+			}
+		]
 }
