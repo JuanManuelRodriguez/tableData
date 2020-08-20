@@ -1,0 +1,16 @@
+ [{
+		"name": "edit",
+		"text": "Editar",
+		"icon": {
+			"color": "green",
+			"picture": "pencil"
+		}
+	},
+	{
+		"name": "delete",
+		"text": "Eliminar",
+		"icon": {
+			"color": "red",
+			"picture": "close"
+		}
+	}]
