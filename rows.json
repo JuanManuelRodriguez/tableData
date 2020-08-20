@@ -1,0 +1,17 @@
+[{
+		"id": 12312,
+		"data": [
+			{
+				"key": "code",
+				"value": "123123123"
+			},
+			{
+				"key": "name",
+				"value": "Esto es un producto"
+			}
+		],
+		"allowedActions": [
+			"edit",
+			"delete"
+		]
+	}]
