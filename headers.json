@@ -1,0 +1,14 @@
+[{
+		"name": "code",
+		"text": "Código",
+		"width": "23px;",
+		"order": 1,
+		"showInMobile": true
+		
+	},{
+		"name": "name",
+		"text": "Nombre",
+		"width": "23px;",
+		"order": 2,
+		"showInMobile": true
+	}]
