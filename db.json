@@ -3,14 +3,21 @@
 		"name": "code",
 		"text": "Código",
 		"width": "23px;",
-		"order": 1,
+		"order": 2,
 		"showInMobile": true
 		
 	},{
 		"name": "name",
 		"text": "Nombre",
 		"width": "23px;",
-		"order": 2,
+		"order": 1,
+		"showInMobile": true
+	},
+	{
+		"name": "iva",
+		"text": "IVA",
+		"width": "23px;",
+		"order": 3,
 		"showInMobile": true
 	}],
 	"rows": [{
@@ -23,6 +30,73 @@
 			{
 				"key": "name",
 				"value": "Esto es un producto"
+			},
+			{
+				"key": "iva",
+				"value": "21"
+			}
+		],
+		"allowedActions": [
+			"edit",
+			"delete"
+		]
+	},
+	{
+		"id": 12313,
+		"data": [
+			{
+				"key": "code",
+				"value": "456456456"
+			},
+			{
+				"key": "name",
+				"value": "Producto que sopapea a otros productos"
+			},
+			{
+				"key": "iva",
+				"value": "21"
+			}
+		],
+		"allowedActions": [
+			"edit",
+			"delete"
+		]
+	},
+	{
+		"id": 12314,
+		"data": [
+			{
+				"key": "code",
+				"value": "789789789"
+			},
+			{
+				"key": "name",
+				"value": "Producto sopapeado al 98.5%"
+			},
+			{
+				"key": "iva",
+				"value": "21"
+			}
+		],
+		"allowedActions": [
+			"edit",
+			"delete"
+		]
+	},
+	{
+		"id": 12315,
+		"data": [
+			{
+				"key": "code",
+				"value": "123456789"
+			},
+			{
+				"key": "name",
+				"value": "Este es otro producto. Creo"
+			},
+			{
+				"key": "iva",
+				"value": "15"
 			}
 		],
 		"allowedActions": [
