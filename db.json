@@ -103,6 +103,258 @@
 			"edit",
 			"delete"
 		]
+	},
+		{
+		"id": 12316,
+		"data": [
+			{
+				"key": "code",
+				"value": "123123123"
+			},
+			{
+				"key": "name",
+				"value": "Esto es un producto"
+			},
+			{
+				"key": "iva",
+				"value": "21"
+			}
+		],
+		"allowedActions": [
+			"edit",
+			"delete"
+		]
+	},
+	{
+		"id": 12317,
+		"data": [
+			{
+				"key": "code",
+				"value": "456456456"
+			},
+			{
+				"key": "name",
+				"value": "Producto que sopapea a otros productos"
+			},
+			{
+				"key": "iva",
+				"value": "21"
+			}
+		],
+		"allowedActions": [
+			"edit",
+			"delete"
+		]
+	},
+	{
+		"id": 12318,
+		"data": [
+			{
+				"key": "code",
+				"value": "789789789"
+			},
+			{
+				"key": "name",
+				"value": "Producto sopapeado al 98.5%"
+			},
+			{
+				"key": "iva",
+				"value": "21"
+			}
+		],
+		"allowedActions": [
+			"edit",
+			"delete"
+		]
+	},
+	{
+		"id": 12319,
+		"data": [
+			{
+				"key": "code",
+				"value": "123456789"
+			},
+			{
+				"key": "name",
+				"value": "Este es otro producto. Creo"
+			},
+			{
+				"key": "iva",
+				"value": "15"
+			}
+		],
+		"allowedActions": [
+			"edit",
+			"delete"
+		]
+	},
+		{
+		"id": 12320,
+		"data": [
+			{
+				"key": "code",
+				"value": "123123123"
+			},
+			{
+				"key": "name",
+				"value": "Esto es un producto"
+			},
+			{
+				"key": "iva",
+				"value": "21"
+			}
+		],
+		"allowedActions": [
+			"edit",
+			"delete"
+		]
+	},
+	{
+		"id": 12321,
+		"data": [
+			{
+				"key": "code",
+				"value": "456456456"
+			},
+			{
+				"key": "name",
+				"value": "Producto que sopapea a otros productos"
+			},
+			{
+				"key": "iva",
+				"value": "21"
+			}
+		],
+		"allowedActions": [
+			"edit",
+			"delete"
+		]
+	},
+	{
+		"id": 12322,
+		"data": [
+			{
+				"key": "code",
+				"value": "789789789"
+			},
+			{
+				"key": "name",
+				"value": "Producto sopapeado al 98.5%"
+			},
+			{
+				"key": "iva",
+				"value": "21"
+			}
+		],
+		"allowedActions": [
+			"edit",
+			"delete"
+		]
+	},
+	{
+		"id": 12323,
+		"data": [
+			{
+				"key": "code",
+				"value": "123456789"
+			},
+			{
+				"key": "name",
+				"value": "Este es otro producto. Creo"
+			},
+			{
+				"key": "iva",
+				"value": "15"
+			}
+		],
+		"allowedActions": [
+			"edit",
+			"delete"
+		]
+	},
+		{
+		"id": 12324,
+		"data": [
+			{
+				"key": "code",
+				"value": "123123123"
+			},
+			{
+				"key": "name",
+				"value": "Esto es un producto"
+			},
+			{
+				"key": "iva",
+				"value": "21"
+			}
+		],
+		"allowedActions": [
+			"edit",
+			"delete"
+		]
+	},
+	{
+		"id": 12325,
+		"data": [
+			{
+				"key": "code",
+				"value": "456456456"
+			},
+			{
+				"key": "name",
+				"value": "Producto que sopapea a otros productos"
+			},
+			{
+				"key": "iva",
+				"value": "21"
+			}
+		],
+		"allowedActions": [
+			"edit",
+			"delete"
+		]
+	},
+	{
+		"id": 12326,
+		"data": [
+			{
+				"key": "code",
+				"value": "789789789"
+			},
+			{
+				"key": "name",
+				"value": "Producto sopapeado al 98.5%"
+			},
+			{
+				"key": "iva",
+				"value": "21"
+			}
+		],
+		"allowedActions": [
+			"edit",
+			"delete"
+		]
+	},
+	{
+		"id": 12327,
+		"data": [
+			{
+				"key": "code",
+				"value": "123456789"
+			},
+			{
+				"key": "name",
+				"value": "Este es otro producto. Creo"
+			},
+			{
+				"key": "iva",
+				"value": "15"
+			}
+		],
+		"allowedActions": [
+			"edit",
+			"delete"
+		]
 	}],
 	"actions": [{
 		"name": "edit",
